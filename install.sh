@@ -96,8 +96,6 @@ case "${ARCH}" in
   sha256s+=('7ac97b03fff5d1befecb26ac471daa239c2c23ab1bc774a5366e6c46d1bb9ad3')
   urls+=('https://dl.bintray.com/chromebrew/chromebrew/git-2.23.0-chromeos-x86_64.tar.xz')
   sha256s+=('a67df6819289a4acb87e07c9f84300c1856c9116691318bf440cab7f8eb044e6')
-  urls+=('https://dl.bintray.com/chromebrew/chromebrew/libssh2-1.8.1-chromeos-x86_64.tar.xz')
-  sha256s+=('1025b413f30c5ac27bfa340e41cb437bf19311e72b95030f64020e25be4cda31')
   ;;
 esac
 
